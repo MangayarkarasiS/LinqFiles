@@ -1,0 +1,7 @@
+C:\Users\Mangai\source\repos\LINQ_Projection\LINQ_Projection\bin\Debug\LINQ_Projection.exe.config
+C:\Users\Mangai\source\repos\LINQ_Projection\LINQ_Projection\bin\Debug\LINQ_Projection.exe
+C:\Users\Mangai\source\repos\LINQ_Projection\LINQ_Projection\bin\Debug\LINQ_Projection.pdb
+C:\Users\Mangai\source\repos\LINQ_Projection\LINQ_Projection\obj\Debug\LINQ_Projection.csprojAssemblyReference.cache
+C:\Users\Mangai\source\repos\LINQ_Projection\LINQ_Projection\obj\Debug\LINQ_Projection.csproj.CoreCompileInputs.cache
+C:\Users\Mangai\source\repos\LINQ_Projection\LINQ_Projection\obj\Debug\LINQ_Projection.exe
+C:\Users\Mangai\source\repos\LINQ_Projection\LINQ_Projection\obj\Debug\LINQ_Projection.pdb

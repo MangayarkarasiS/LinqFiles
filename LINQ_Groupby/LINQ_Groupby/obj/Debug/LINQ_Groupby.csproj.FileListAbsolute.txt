@@ -1,0 +1,7 @@
+C:\Users\Mangai\source\repos\LINQ_Groupby\LINQ_Groupby\bin\Debug\LINQ_Groupby.exe.config
+C:\Users\Mangai\source\repos\LINQ_Groupby\LINQ_Groupby\bin\Debug\LINQ_Groupby.exe
+C:\Users\Mangai\source\repos\LINQ_Groupby\LINQ_Groupby\bin\Debug\LINQ_Groupby.pdb
+C:\Users\Mangai\source\repos\LINQ_Groupby\LINQ_Groupby\obj\Debug\LINQ_Groupby.csprojAssemblyReference.cache
+C:\Users\Mangai\source\repos\LINQ_Groupby\LINQ_Groupby\obj\Debug\LINQ_Groupby.csproj.CoreCompileInputs.cache
+C:\Users\Mangai\source\repos\LINQ_Groupby\LINQ_Groupby\obj\Debug\LINQ_Groupby.exe
+C:\Users\Mangai\source\repos\LINQ_Groupby\LINQ_Groupby\obj\Debug\LINQ_Groupby.pdb

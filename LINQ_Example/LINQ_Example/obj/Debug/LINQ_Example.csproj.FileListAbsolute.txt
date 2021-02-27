@@ -1,0 +1,7 @@
+C:\Users\Mangai\source\repos\LINQ_Example\LINQ_Example\bin\Debug\LINQ_Example.exe.config
+C:\Users\Mangai\source\repos\LINQ_Example\LINQ_Example\bin\Debug\LINQ_Example.exe
+C:\Users\Mangai\source\repos\LINQ_Example\LINQ_Example\bin\Debug\LINQ_Example.pdb
+C:\Users\Mangai\source\repos\LINQ_Example\LINQ_Example\obj\Debug\LINQ_Example.csprojAssemblyReference.cache
+C:\Users\Mangai\source\repos\LINQ_Example\LINQ_Example\obj\Debug\LINQ_Example.csproj.CoreCompileInputs.cache
+C:\Users\Mangai\source\repos\LINQ_Example\LINQ_Example\obj\Debug\LINQ_Example.exe
+C:\Users\Mangai\source\repos\LINQ_Example\LINQ_Example\obj\Debug\LINQ_Example.pdb
