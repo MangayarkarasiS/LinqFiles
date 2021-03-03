@@ -23,7 +23,7 @@ namespace LINQ_Restricition
         public int ID { get; set; }
         public string Name { get; set; }
         public string Location { get; set; }
-    
+    //add
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<Employee> Employees { get; set; }
     }
